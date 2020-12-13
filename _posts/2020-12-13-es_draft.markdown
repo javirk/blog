@@ -7,4 +7,4 @@ categories: jekyll update
 
 La pregunta que encabeza este post es recurrente en todos los círculos de la Inteligencia Artificial. Aquellos que trabajan en NLP (procesamiento de lenguaje natural por sus siglas en inglés) buscan concebir sistemas que sean capaces de entender (procesar) lenguaje producido por seres humanos y tomar acciones acordes {% cite Monteiro %}
 
-{% bibliography --file ref %}
+{% bibliography --cited %}
