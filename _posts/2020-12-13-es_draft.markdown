@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "¿Puede una IA inventarse un idioma?"
+title:  "¿Puede una IA inventar un idioma?"
 date:   2020-11-07 19:39:02 +0100
 categories: jekyll update
 ---
 
-La pregunta que encabeza este post es recurrente en todos los círculos de la Inteligencia Artificial. Aquellos que trabajan en NLP (procesamiento de lenguaje natural por sus siglas en inglés) buscan concebir sistemas que sean capaces de entender (procesar) lenguaje producido por seres humanos y tomar acciones acordes {% cite Monteiro %}
+La pregunta que encabeza este post es recurrente en todos los círculos de la Inteligencia Artificial. Aquellos que trabajan en NLP (procesamiento de lenguaje natural por sus siglas en inglés) buscan concebir sistemas que sean capaces de entender (procesar) lenguaje producido por seres humanos y tomar acciones acordes {% cite Selvaraju %}
 
-{% bibliography --file ref %}
+{% bibliography %}
