@@ -38,5 +38,5 @@ jobs:
         rm -rf _site
         [[ -n "$(git status --porcelain)" ]] || exit 0
         git add .
-        git commit -m "Build $(git rev-parse source | grep -o '^.\{10\}')"
+        git commit -m "Build $(git rev-parse gh-pages | grep -o '^.\{10\}')"
         git push "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" master
