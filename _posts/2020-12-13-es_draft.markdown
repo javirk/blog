@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "¿Puede una IA inventarse un idioma?"
+title:  "¿Puede una IA inventar un idioma?"
 date:   2020-11-07 19:39:02 +0100
 categories: jekyll update
 ---
 
-La pregunta que encabeza este post es recurrente en todos los círculos de la Inteligencia Artificial. Aquellos que trabajan en NLP (procesamiento de lenguaje natural por sus siglas en inglés) buscan concebir sistemas que sean capaces de entender (procesar) lenguaje producido por seres humanos y tomar acciones acordes {% cite Monteiro %}
+La pregunta que encabeza este post es recurrente en todos los círculos de la Inteligencia Artificial. Aquellos que trabajan en NLP (procesamiento de lenguaje natural por sus siglas en inglés) buscan concebir sistemas que sean capaces de entender (procesar) lenguaje producido por seres humanos y tomar acciones acordes. GPT-3 es un ejemplo de esto, el cometido de este modelo tan solo es predecir (muy acertadamente) la palabra más probable que seguirá una secuencia de texto {% cite Brown2020 %}. Sin embargo, según cómo ha sido entrenado, en ningún caso se puede defender que el modelo posea una comprensión profunda de las palabras que está produciendo ni que tenga un objetivo en particular al expresarlas. Si me permites mi humilde opinión, creo que el salto que nos queda por delante hasta cubrir este último punto es todavía enorme y no vendrá en los próximos años. Al fin y al cabo, todavía no entendemos cómo funciona la mente humana.
+
+Si atendemos a la definición de "idioma" en el Diccionario, ésta es "Lengua de un pueblo o nación, o común a varios" {% cite RAE %}, mientras que una de las acepciones de "lengua" es "Sistema de comunicación verbal propio de una comunidad humana y que cuenta generalmente con escritura" {% cite RAEa %}. Cuando hablemos de "idioma" en este post, por lo tanto, nos estaremos refiriendo a un lenguaje común que compartan varios sistemas a través del cual puedan llegar a entenderse y transmitir ideas. No obstante, estas ideas vendrán predefinidas por un agente externo a la IA. Un ejemplo básico sería transmitir un número aleatorio del sistema A al B en un lenguaje común, que el B lo procesara, calculara su doble, lo devolviera a A y éste diera con la respuesta correcta.
+
+El ejemplo anterior puede parecer muy básico, pero es justo lo que intentaremos en este post. Intentaremos sentar las bases de un proyecto que cumpla todos esos requisitos y una condición más: que el idioma que compartan las redes sea el del androide R2-D2 de Star Wars. 
 
 {% bibliography --cited %}
