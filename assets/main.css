@@ -280,4 +280,8 @@ img + em { text-align: center; font-size: 15.2px; margin: 0 auto; display: block
 
 .image-centered { margin: 0 auto; display: block; }
 
+ul { text-align: justify; }
+
+li { margin: 10px 0; }
+
 /*# sourceMappingURL=main.css.map */
