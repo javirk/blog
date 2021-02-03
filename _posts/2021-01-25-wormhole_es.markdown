@@ -63,7 +63,7 @@ El código que he escrito para generar todas las imágenes está disponible púb
 ***
 [^1]: La técnica de Ray Tracing no es la única actualmente pero sí una de las más utilizadas porque ofrece una buena relación entre la calidad final de las imágenes y el tiempo empleado para renderizar.
 [^2]: Que un agujero de gusano sea físicamente plausible implica que es una solución de las ecuaciones de Einstein, no que haya sido observado.
-[^3]: Se ha prescindido de colocar la cámara en la Figura LA QUE SEA porque ésta es una representación del agujero en menos dimensiones de las que en realidad toman parte. Está bien para hacerse una idea de cara a la programación colocar la cámara mentalmente en la vertical de la garganta del agujero, apuntando perpendicularmente hacia ésta. Sin embargo, en dicha Figura en realidad se está representando el espacio-tiempo en sí, y todos los objetos deben estar sobre la retícula, incluida la cámara.
+[^3]: Se ha prescindido de colocar la cámara en la Figura 3 porque ésta es una representación del agujero en menos dimensiones de las que en realidad toman parte. Está bien para hacerse una idea de cara a la programación colocar la cámara mentalmente en la vertical de la garganta del agujero, apuntando perpendicularmente hacia ésta. Sin embargo, en dicha Figura en realidad se está representando el espacio-tiempo en sí, y todos los objetos deben estar sobre la retícula, incluida la cámara.
 
 ***
 
